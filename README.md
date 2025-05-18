@@ -3,7 +3,7 @@
 > This has just started, so it will change a lot.
 > 
 This is an ongoing experiment where I am trying to render my portfolio in the terminal using ANSI escape codes.
-So instead of visting [ansi.toky-rt.dev](ansi.toky-rt.dev) via a web browser, you can view it in your terminal with a curl command.
+So instead of visting [ansi.toky-rt.dev](https://ansi.toky-rt.dev) via a web browser, you can view it in your terminal with a curl command.
 
 ```bash
 curl ansi.toky-rt.dev 
